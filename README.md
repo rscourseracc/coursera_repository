@@ -43,19 +43,19 @@
 
 ##### https://www.timeshighereducation.com/sites/default/files/the_data_rankings/united_states_rankings_2017_limit0_068d27a033ada75528617769a8a4c4c2.json
 
-###### The dataset includes rankings of 1061 Universities across US. The evaluation is based on 14 parameters across 4 pillars - 
+##### The dataset includes rankings of 1061 Universities across US. The evaluation is based on 14 parameters across 4 pillars - 
 
 ###### Resources
 ###### Engagement
 ###### Outcomes
 ###### Environment
 
-###### In addition, helpful figures on Annual Tuition Fees, Room & Board, and, Average Salary after 10 years is provided as well.
+##### In addition, helpful figures on Annual Tuition Fees, Room & Board, and, Average Salary after 10 years is provided as well.
 
-###### We will supplement the provided fields with Latitude & Longitude data from Google Geocode API. Based on obtained locations, Foursquare API will be made use of to explore & search places of interest.
+##### We will supplement the provided fields with Latitude & Longitude data from Google Geocode API. Based on obtained locations, Foursquare API will be made use of to explore & search places of interest.
 
-###### To facilitate analysis, we will limit the choice of Universities to top 200. 
-###### We also limit the venue categories to the following in order to not overshoot the free/developer quota offered by Foursquare:
+##### To facilitate analysis, we will limit the choice of Universities to top 200. 
+##### We also limit the venue categories to the following in order to not overshoot the free/developer quota offered by Foursquare:
 ###### Offices
 ###### Shops
 ###### Food Joints, Restaurants, Cafes
@@ -68,7 +68,7 @@
 ###### Residetial areas
 ###### Government Offices
 ###### Transportation venues
-###### These are subjective but reasonable choices for most sought after neighborhood venues for college students.
+##### These are subjective but reasonable choices for most sought after neighborhood venues for college students.
 
 
 
