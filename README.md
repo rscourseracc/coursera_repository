@@ -6,22 +6,22 @@
 
 #### For the purpose of this project we limit ourselves to Universities in the US.
 #### US is a popular destination for higher studies the worldover. Foreign and US in-state/out-of-state Students shortlist the Universities based on a number of factors. Some of the more important factors are:
-  ####### Ranking of the University
-  ####### Tuition Fees
-  ####### Cost of Living
-  ####### Quality of Faculty
-  ####### Quality of students (Cutoffs)
-  ####### Resources/Amenities at the University
-  ####### Research quality
-  ####### General performance of the University's alumni base
-  ####### On-campus diversity
-  ####### Student Engagement (Clubs/Student-led initiatives)
-  ####### Industry connect
-  ####### Average starting salaries
-  ####### Average Salaries after 5/10 years
-  ####### Part-time jobs availability
-  ####### Transportation facilities
-  ####### City specific parameters (Safety/Crime, Arts, Sports, Nightlife, general quality of life etc.)
+  ###### Ranking of the University
+  ###### Tuition Fees
+  ###### Cost of Living
+  ###### Quality of Faculty
+  ###### Quality of students (Cutoffs)
+  ###### Resources/Amenities at the University
+  ###### Research quality
+  ###### General performance of the University's alumni base
+  ###### On-campus diversity
+  ###### Student Engagement (Clubs/Student-led initiatives)
+  ###### Industry connect
+  ###### Average starting salaries
+  ###### Average Salaries after 5/10 years
+  ###### Part-time jobs availability
+  ###### Transportation facilities
+  ###### City specific parameters (Safety/Crime, Arts, Sports, Nightlife, general quality of life etc.)
 #### The list goes on ....
 
 #### Many rating agencies calculate and rank Universities on a number of these parameters. While Academic burden, teaching quality, resource-richness/funding availability, diversity & salaries are chosen as evaluation parameters by all rating agencies, the subtler aspects are often overlooked. 
@@ -56,19 +56,19 @@
 
 ###### To facilitate analysis, we will limit the choice of Universities to top 200. 
 ###### We also limit the venue categories to the following in order to not overshoot the free/developer quota offered by Foursquare:
-####### Offices
-####### Shops
-####### Food Joints, Restaurants, Cafes
-####### Arts venues
-####### Sports & Recreation Venues
-####### Entertainment Venues
-####### Libraries
-####### Colleges
-####### Nightlife venues
-####### Residetial areas
-####### Government Offices
-####### Transportation venues
-####### These are subjective but reasonable choices for most sought after neighborhood venues for college students.
+###### Offices
+###### Shops
+###### Food Joints, Restaurants, Cafes
+###### Arts venues
+###### Sports & Recreation Venues
+###### Entertainment Venues
+###### Libraries
+###### Colleges
+###### Nightlife venues
+###### Residetial areas
+###### Government Offices
+###### Transportation venues
+###### These are subjective but reasonable choices for most sought after neighborhood venues for college students.
 
 
 
