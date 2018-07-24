@@ -1,2 +1,2 @@
 # coursera_repository
-coursera courses
+IBM Applied Data Science Capstone Project Coursera
